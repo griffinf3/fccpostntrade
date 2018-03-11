@@ -1,0 +1,33 @@
+{
+  "name": "PostnTrade",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "material-ui": "^0.20.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-confirm-alert": "^1.0.8",
+    "react-icons": "^2.2.7",
+    "react-modal": "^3.1.10",
+    "react-router": "^3.0.0",
+    "react-scripts": "1.1.0",
+    "react-select": "^1.2.1",
+    "react-spinners": "^0.2.5",
+    "react-tap-event-plugin": "^3.0.2",
+    "react-twitter-auth": "0.0.10",
+    "sweetalert": "^2.1.0",
+    "url-search-params-polyfill": "^2.0.1",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:4000"
+}
